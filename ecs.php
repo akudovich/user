@@ -15,7 +15,7 @@ return ECSConfig::configure()
         __DIR__ . '/tests',
     ])
     ->withCache(
-        directory: '/var/ecs'
+        directory: __DIR__ . '/var/ecs'
     )
 
     // add a single rule
