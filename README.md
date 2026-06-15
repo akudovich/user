@@ -11,7 +11,7 @@
 **Tests**
 
 [![Tests](https://github.com/akudovich/user/actions/workflows/tests.yaml/badge.svg)](https://github.com/akudovich/user/actions/workflows/tests.yaml)
-[![Codecov](https://codecov.io/gh/akudovich/user/branch/master/graph/badge.svg)](https://app.codecov.io/gh/akudovich/user)
+[![codecov](https://codecov.io/gh/akudovich/user/graph/badge.svg?token=7F1G3YC10D)](https://codecov.io/gh/akudovich/user)
 [![Infection](https://github.com/akudovich/user/actions/workflows/infection.yaml/badge.svg)](https://github.com/akudovich/user/actions/workflows/infection.yaml)
 
 Test project for managing user accounts stored in a `users` table.
